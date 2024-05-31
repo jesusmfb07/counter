@@ -36,6 +36,7 @@ class _CounterFunctionsScreenState extends State<CounterFunctionsScreen> {
                   style: const TextStyle(fontSize: 25))
             ],
           ),
+          
         ),
         floatingActionButton: Column(
           mainAxisAlignment: MainAxisAlignment.end,
